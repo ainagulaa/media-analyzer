@@ -1,0 +1,13 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+nltk
+beautifulsoup4
+requests
+lxml
+seaborn
+plotly
+transformers 
+torch
+math
